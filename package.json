@@ -14,7 +14,7 @@
      }
    },
    "dependencies": {
-     "memcached": "latest",
+     "memcached": "https://github.com/miaowing/memcached.git#2be444c422f1b55f69941955582026b2b71f522d",
      "q": "^1.0.1"
    },
    "devDependencies": {
